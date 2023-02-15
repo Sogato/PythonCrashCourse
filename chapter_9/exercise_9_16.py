@@ -1,1 +1,1 @@
-http://pymotw.com/
+# http://pymotw.com/
