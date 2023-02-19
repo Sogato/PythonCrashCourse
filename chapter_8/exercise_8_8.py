@@ -1,8 +1,8 @@
-def make_album(artist_name, album_title, track=None):
+def make_album(artist_name, album_title, track_music=None):
     album = {
         'atrist': artist_name,
         'title': album_title,
-        'track': track,
+        'track': track_music,
     }
     return album
 
